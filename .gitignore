@@ -1,1 +1,11 @@
-node_modules/
+# dependencies
+node_modules
+
+# logs
+npm-debug.log
+
+# Next build
+.next
+
+# Next generate
+dist
